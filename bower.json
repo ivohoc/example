@@ -1,0 +1,21 @@
+{
+  "name": "example",
+  "homepage": "https://github.com/ivohoc/example",
+  "authors": [
+    "ivohoc <ivo.hochreutener@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "modernizr": "^3.5.0"
+  }
+}
